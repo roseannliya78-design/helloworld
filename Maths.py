@@ -7,4 +7,3 @@ sub=a-b
 print("Addition is:",sum)
 print("Multiplication is:",mul)
 print("Division is :",div)
-print("Substraction is:",sub)
